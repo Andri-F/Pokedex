@@ -838,7 +838,7 @@ class _HomeState extends State<Home> {
                         });
                   }, childCount: 151),
                   gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-                      crossAxisCount: 4),
+                      crossAxisCount: 3),
                 ),
                 SliverToBoxAdapter(
                     child: _isLoading
